@@ -1,5 +1,5 @@
 {
-    "name": "scngn/orders",
+    "name": "scngnr/orders",
     "autoload": {
         "psr-4": {
             "Scngn\\Orders\\": "src/"
