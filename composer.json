@@ -1,5 +1,5 @@
 {
-    "name": "scngnr/orders",
+    "name": "scngn/orders",
     "license": "MIT",
     "autoload": {
         "psr-4": {
