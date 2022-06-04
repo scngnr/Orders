@@ -5,6 +5,13 @@
             "Scngn\\Orders\\": "src/"
         }
     },
+    "extra": {
+      "laravel": {
+        "providers": [
+          "Scngnr\\Orders\\OrdersProvider"
+        ]
+      }
+    },
     "authors": [
         {
             "name": "scngnr",
