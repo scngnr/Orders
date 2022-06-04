@@ -1,0 +1,15 @@
+{
+    "name": "scngn/orders",
+    "autoload": {
+        "psr-4": {
+            "Scngn\\Orders\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "scngnr",
+            "email": "scngnr@gmail.com"
+        }
+    ],
+    "require": {}
+}
